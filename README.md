@@ -4,7 +4,7 @@
 
 > ## 프로젝트 개요
 >
-> Angular-cli 레포지토리의 issue를 보여주는 App
+> Angular-cli 레포지토리의 issue를 보여주는 App.
 
 <br/>
 
